@@ -5,6 +5,8 @@ public class EnhancedFor
 		int sum = sumListEnhanced(list);
 		System.out.println("Sum of elements in list: " + sum);
 
+
+
 		System.out.println("Original List");
 		printList(list);
 		System.out.println("Calling addOne");
